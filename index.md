@@ -12,4 +12,4 @@
 #### 2026
 - date, venue, address, contact info
 -
-<iframe src="https://calendar.google.com/calendar/embed?src=1578a26bf18b5f16369b4e8f47cf462b60c82f101b22ee10d3a4a5106b4805b9%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=450&wkst=1&ctz=America%2FLos_Angeles&showPrint=0&showTabs=0&showCalendars=0&showTz=0&src=MTU3OGEyNmJmMThiNWYxNjM2OWI0ZThmNDdjZjQ2MmI2MGM4MmYxMDFiMjJlZTEwZDNhNGE1MTA2YjQ4MDViOUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%239e69af" style="border-width:0" width="500" height="450" frameborder="0" scrolling="no"></iframe>
