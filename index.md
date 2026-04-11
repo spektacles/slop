@@ -10,8 +10,9 @@
 
 ### Show Schedule
 #### 2026
-- Thursday, 04/09/26, Kickstand Comedy, 1006 SE Hawthorne Blvd. Portland, OR 97214, contact info: Laz of Brown Sugar
--
+- Friday, 04/24/26, 7 pm (call time, 6:30 pm) Kickstand Comedy, 1006 SE Hawthorne Blvd. Portland, OR 97214, contact info: Eric of Mosaic (eric@kickstandcomedy.org)
+- Sunday, 05/17/26, 6 pm (call time, 5:30 pm) Curious Comedy, 5225 NE Martin Luther King Jr Blvd, Portland OR 97211, contact info: Skelly Harrington (curiouscomedytc@gmail.com)
+- 
 <iframe src="https://calendar.google.com/calendar/embed?height=450&wkst=1&ctz=America%2FLos_Angeles&showPrint=0&showTabs=0&showCalendars=0&showTz=0&src=MTU3OGEyNmJmMThiNWYxNjM2OWI0ZThmNDdjZjQ2MmI2MGM4MmYxMDFiMjJlZTEwZDNhNGE1MTA2YjQ4MDViOUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%239e69af" style="border-width:0" width="500" height="450" frameborder="0" scrolling="no"></iframe>
 
 ### Show Archive
